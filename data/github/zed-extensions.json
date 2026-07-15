@@ -1,0 +1,9 @@
+{
+  "name": "zed-extensions",
+  "full_name": "mistralai/zed-extensions",
+  "description": "Extensions for the Zed editor",
+  "stars": 2,
+  "last_activity": "2026-05-20T09:43:28Z",
+  "url": "https://github.com/mistralai/zed-extensions",
+  "readme": "# Zed Extensions\n\nThis is the central repository containing the extensions available for [Zed](https://zed.dev/).\n\n## Getting started\n\nSee the [Developing Extensions](https://zed.dev/docs/extensions/developing-extensions) docs for how to develop and publish your extension\n\nLooking for extension ideas? Check out:\n\n- [Top theme requests](https://github.com/zed-industries/extensions/issues?q=is%3Aissue+is%3Aopen+label%3Atheme+sort%3Areactions-%2B1-desc)\n- [Top language requests](https://github.com/zed-industries/extensions/issues?q=is%3Aissue+is%3Aopen+label%3Alanguage+sort%3Areactions-%2B1-desc)\n\nIf an issue requesting an extension is tagged with the `needs infrastructure` label, it indicates that the extension cannot currently be developed due to the absence of necessary system infrastructure.\n"
+}
